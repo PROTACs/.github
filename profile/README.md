@@ -1,10 +1,14 @@
-# All about PROTACs
+# PROTACs
 
-Focused on AI based PROTAC Design
+Welcome to the PROTACs organization! Our goal is to advance computational approaches for PROTAC (Proteolysis Targeting Chimeras) drug discovery. We focus on leveraging cutting-edge data, innovative models, and in-depth research to explore the potential of PROTACs in therapeutic applications.
 
-- data
-- model
-- research
+### Key Areas:
+- **Data**: Curating high-quality datasets for PROTAC drug development.
+- **Modeling**: Developing models to optimize PROTAC design, assess efficacy, and explore novel drug candidates.
+- **Research**: Conducting studies to uncover new pathways and strategies for PROTAC-based therapies.
+
+Stay tuned for updates as we continue to push the boundaries of PROTAC drug discovery.
+
 
 <!--
 
